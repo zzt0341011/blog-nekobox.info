@@ -1,6 +1,6 @@
-baseURL = 'https://getfreevpn.info/'
+baseURL = 'https://nekobox.info/'
 languageCode = 'en-us'
-title = 'get free vpn'
+title = 'nekobox'
 theme='hugo-book'
 
 # Book configuration
