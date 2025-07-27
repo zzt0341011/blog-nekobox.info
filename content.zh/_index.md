@@ -60,4 +60,4 @@ nekobox是安卓平台的一个多功能[sing-box](https://sing-box.info)代理�
 | [直连](https://bnb.lat/buy/3)    | 37元一年     | 不限流量       |
 
 - 苹果手机下载shadowrocket,导入节点
-- nekobox免费节点分享
+- [nekobox免费节点分享](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)

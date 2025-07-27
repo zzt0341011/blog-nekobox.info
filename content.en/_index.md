@@ -8,7 +8,7 @@ type: docs
 
 Nekobox is a multi-functional **[sing-box](https://sing-box.info)** proxy client for Android, similar in function to a **[VPN](https://getfreevpn.info)**. It's powerful and supports a wide range of proxy protocols, including SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray, and more. It enables fast and stable internet access by easily importing proxy nodes. Many other software offer similar functionalities, such as **[v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/)**, **[karing](https://karing.biz)**, **[sing-box](https://sing-box.info)**, **[hiddify](https://hiddify.me)**, **[v2box](https://v2box.pro)**, **[flclash](https://flclash.xyz)**, **[mahsang](https://mahsang.pro)**, **[stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)**, **[shadowrocket](https://shadowrocket.ink)**, **[nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite)**, **[v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh)**, etc.
 
-
+![nekobox-11001.jpg](https://nekobox.info/img/nekobox-11001.jpg)
 
 ## Nekobox Download and Installation
 
