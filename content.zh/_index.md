@@ -59,5 +59,5 @@ nekobox是安卓平台的一个多功能[sing-box](https://sing-box.info)代理�
 | [帕克云](https://jump.923ka.com/#login?code=Ax6eLJs9)    | 36元     | 不限时间       |
 | [直连](https://bnb.lat/buy/3)    | 37元一年     | 不限流量       |
 
-- 苹果手机下载shadowrocket,导入节点
+- [nekobox免费机场推荐-新谷歌](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-%E6%96%B0%E8%B0%B7%E6%AD%8C/)
 - [nekobox免费节点分享](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
