@@ -58,3 +58,5 @@ Nekobox is a multi-functional **[sing-box](https://sing-box.info)** proxy client
 | [Wangji Kuaiche](https://wjkc66.vip?c=REZUOC) | 7 RMB | No time limit |
 | [Parker Cloud](https://jump.923ka.com/#login?code=Ax6eLJs9) | 36 RMB | No time limit |
 | [Direct Connect](https://bnb.lat/buy/3) | 37 RMB for one year | Unlimited data |
+
+- [nekobox free node sharing](https://nekobox.info/docs/Nekobox-Tutorial/nekobox-free-node-sharing/)
