@@ -3,6 +3,7 @@ title: Руководство по использованию Nekobox type: docs
 тип: документы
 ---
 
+
 Nekobox — это многофункциональный прокси-клиент **[sing-box](https://sing-box.info)** для Android, по функциям похожий на **[VPN](https://getfreevpn.info)**. Он обладает мощными возможностями и поддерживает широкий спектр прокси-протоколов, включая SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray и другие. Он позволяет быстро и стабильно получать доступ к интернету, легко импортируя прокси-узлы и настраивая прокси. Многие другие программы предлагают схожий функционал, такие как **[v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/)**, **[karing](https://karing.biz)**, **[sing-box](https://sing-box.info)**, **[hiddify](https://hiddify.me)**, **[v2box](https://v2box.pro)**, **[flclash](https://flclash.xyz)**, **[mahsang](https://mahsang.pro)**, **[stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)**, **[shadowrocket](https://shadowrocket.ink)**, **[nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite)**, **[v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh)** и т. д.
 
 ![nekobox-11001.jpg](https://nekobox.info/img/nekobox-11001.jpg)
