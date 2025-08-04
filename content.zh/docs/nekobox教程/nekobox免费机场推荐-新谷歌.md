@@ -35,6 +35,6 @@
 ![xinguge-11001.jpg](https://nekobox.info/img/xinguge-11007.jpg)
 
 - 半年最低20元，月流量60G，价格便宜
-- 注册连接：https://xingoogle0.cc/auth/register?code=in46IT
+- 注册连接：[https://xingoogle0.cc/auth/register?code=in46IT](https://xingoogle0.cc/auth/register?code=in46IT)
 
 ![xinguge-11001.jpg](https://nekobox.info/img/xinguge-11008.jpg)

@@ -50,14 +50,18 @@ nekobox是安卓平台的一个多功能[sing-box](https://sing-box.info)代理�
 | 机场名称 | 价格 | 备注     |
 |------|----------|--------------|
 | [魔戒](https://www.mojie.me/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
+| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元     | 200G不限时       |
 | [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时   |
-| [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)    | 20元半年     | 360G       |
-| [穿山甲](https://af001.affcsj.com/#/register?code=kfW7nuyP)    | 50元一年     | 每月30G   |
-| [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 98元一年     | 每月30G       |
-| [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)    | 500元     | 5700G每年       |
-| [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 不限时间       |
-| [帕克云](https://jump.923ka.com/#login?code=Ax6eLJs9)    | 36元     | 不限时间       |
-| [直连](https://bnb.lat/buy/3)    | 37元一年     | 不限流量       |
+| [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c)    | 10元     | 80G不限时   |
+| [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)    | 20元     | 360G半年       |
+| [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 98元     | 1年360G |
+| [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)    | 500元     | 1年5700G |
+| [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 20G不限时       |
+| [牛逼](https://6.66jc.top/#/login?code=sT9kLfc6)    | 13元     | 200G不限时       |
+| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT)    | 24元     | 1000G不限时       |
+| [直连](https://bnb.lat/buy/3)    | 5usdt     | 1年不限量       |
+
+- leeulen60@gmail.com
 
 - [nekobox免费机场推荐-新谷歌](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-%E6%96%B0%E8%B0%B7%E6%AD%8C/)
 - [nekobox免费节点分享](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
