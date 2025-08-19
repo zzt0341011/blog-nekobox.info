@@ -59,16 +59,14 @@ surge是在苹果设备上的另一款网络代理软件，支持多种协议
 
 | 机场名称 | 价格 | 备注     |
 |------|----------|--------------|
-| [魔戒](https://www.mojie.me/#/register?code=BpCuERz0)    | 15元     | 130G不限时 |
-| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元     | 200G不限时       |
-| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时   |
-| [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c)    | 10元     | 80G不限时   |
-| [新谷歌](https://xingoogle0.cc/auth/register?code=in46IT)    | 20元     | 360G半年       |
-| [闪电猫](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 98元     | 1年360G |
-| [土拔鼠](https://tuboshu.io/auth/register?code=6ulsZW)    | 500元     | 1年5700G |
-| [网际快车](https://wjkc66.vip?c=REZUOC)    | 7元     | 20G不限时       |
-| [牛逼](https://6.66jc.top/#/login?code=sT9kLfc6)    | 13元     | 200G不限时       |
-| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT)    | 24元     | 1000G不限时       |
+| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元    | 200G不限时       |
+| [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 12元     | 60G不限时       |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 38元     | 100G不限时       |
+| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0)    | 37元     | 200G不限时      |
+| [自由猫](https://us.freecat.cc/register?code=czdF7PXY)    | 50元   | 500G不限时   |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时 |
+| [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6)    | 13元     | 200G不限时   |
+| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT)    | 24元     | 1000G不限时     |
 | [直连](https://bnb.lat/buy/3)    | 5usdt     | 1年不限量       |
 
 - leeulen60@gmail.com

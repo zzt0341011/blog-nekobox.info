@@ -38,3 +38,17 @@
 - 注册连接：[https://xingoogle0.cc/auth/register?code=in46IT](https://xingoogle0.cc/auth/register?code=in46IT)
 
 ![xinguge-11001.jpg](https://nekobox.info/img/xinguge-11008.jpg)
+
+## 机场推荐
+
+| 机场名称 | 价格 | 备注     |
+|------|----------|--------------|
+| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 15元    | 200G不限时       |
+| [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j)    | 12元     | 60G不限时       |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 38元     | 100G不限时       |
+| [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0)    | 37元     | 200G不限时      |
+| [自由猫](https://us.freecat.cc/register?code=czdF7PXY)    | 50元   | 500G不限时   |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 55元     | 600G不限时 |
+| [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6)    | 13元     | 200G不限时   |
+| [五毛](https://www.freebb.me/#/register?code=HNjWYnFT)    | 24元     | 1000G不限时     |
+| [直连](https://bnb.lat/buy/3)    | 5usdt     | 1年不限量       |

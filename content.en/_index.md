@@ -18,19 +18,19 @@ Nekobox is a multi-functional **[sing-box](https://sing-box.info)** proxy client
 
 ## Recommended Proxy Providers
 
-| Provider Name                                                              | Price  | Notes                 |
-| -------------------------------------------------------------------------- | ------ | --------------------- |
-| [Lord of the Rings](https://www.mojie.me/#/register?code=BpCuERz0)         | 2 USDT    | 130GB, no time limit  |
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)              | 2 USDT    | 200GB, no time limit  |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)             | 8 USDT    | 600GB, no time limit  |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80GB, no time limit   |
-| [New Google](https://xingoogle0.cc/auth/register?code=in46IT)              | 3 USDT    | 360GB for 6 months    |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360GB for 1 year      |
-| [Groundhog](https://tuboshu.io/auth/register?code=6ulsZW)                  | 70 USDT   | 5700GB per year       |
-| [Internet Express](https://wjkc66.vip?c=REZUOC)                            | 1 USDT     | 20GB, no time limit   |
-| [Awesome](https://6.66jc.top/#/login?code=sT9kLfc6)                        | 2 USDT    | 200GB, no time limit  |
-| [Five Mao](https://www.freebb.me/#/register?code=HNjWYnFT)                 | 3 USDT    | 1000GB, no time limit |
-| [Direct Connect](https://bnb.lat/buy/3)                                    | 5 USDT | Unlimited for 1 year  |
+| Service Provider | Price | Notes |
+|---|---|---|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G unlimited time |
+| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE) | 2USDT | 100G unlimited time |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1USDT | 80G unlimited time |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 5USDT | 100G unlimited time |
+| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G unlimited time |
+| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G unlimited time |
+| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G unlimited time |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G unlimited time |
+| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Unlimited data for 1 year |
+
+* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 ## Node Purchase

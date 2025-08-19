@@ -44,19 +44,16 @@
 
 ## Рекомендуемые прокси-провайдеры
 
-| Название провайдера                                                           | Цена   | Примечание                          |
-| ----------------------------------------------------------------------------- | ------ | ----------------------------------- |
-| [Властелин колец](https://www.mojie.me/#/register?code=BpCuERz0)              | 2 USDT    | 130 ГБ, без ограничения по времени  |
-| [Нунгфу Спринг](https://www.nfsq.us/#/register?code=i1fXTMYk)                 | 2 USDT    | 200 ГБ, без ограничения по времени  |
-| [Облачко](https://web1.bby011.com/#/register?code=8xTTMr2f)                   | 8 USDT    | 600 ГБ, без ограничения по времени  |
-| [Минеральная вода](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1 USDT    | 80 ГБ, без ограничения по времени   |
-| [Новый Google](https://xingoogle0.cc/auth/register?code=in46IT)               | 3 USDT    | 360 ГБ на 6 месяцев                 |
-| [Молниеносный кот](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL)    | 8 USDT    | 360 ГБ на 1 год                     |
-| [Суслик](https://tuboshu.io/auth/register?code=6ulsZW)                        | 70 USDT   | 5700 ГБ в год                       |
-| [Интернет-экспресс](https://wjkc66.vip?c=REZUOC)                              | 1 USDT     | 20 ГБ, без ограничения по времени   |
-| [Крутой](https://6.66jc.top/#/login?code=sT9kLfc6)                            | 2 USDT    | 200 ГБ, без ограничения по времени  |
-| [Пять Мао](https://www.freebb.me/#/register?code=HNjWYnFT)                    | 3 USDT    | 1000 ГБ, без ограничения по времени |
-| [Прямое подключение](https://bnb.lat/buy/3)                                   | 5 USDT | Безлимит на 1 год                   |
+| Поставщик услуг | Цена | Примечания |
+|---|---|---|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
+| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
+| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
+| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
+| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
+| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 
