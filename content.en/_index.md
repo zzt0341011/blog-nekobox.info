@@ -1,79 +1,90 @@
 ---
-title: Nekobox Usage Tutorial
+title: nekobox User Guide
 type: docs
 ---
 
+## Introduction to nekobox
 
-## Introduction to Nekobox
+nekobox is a multifunctional [sing-box](https://sing-box.info) proxy client for the Android platform. It works similarly to a [VPN](https://getfreevpn.info). It is powerful and supports multiple proxy protocols, including: SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray, and more.  
 
-Nekobox is a multi-functional **[sing-box](https://sing-box.info)** proxy client for Android, similar in function to a **[VPN](https://getfreevpn.info)**. It's powerful and supports a wide range of proxy protocols, including SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray, and more. It enables fast and stable internet access by easily importing proxy nodes. Many other software offer similar functionalities, such as **[v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/)**, **[karing](https://karing.biz)**, **[sing-box](https://sing-box.info)**, **[hiddify](https://hiddify.me)**, **[v2box](https://v2box.pro)**, **[flclash](https://flclash.xyz)**, **[mahsang](https://mahsang.pro)**, **[stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)**, **[shadowrocket](https://shadowrocket.ink)**, **[nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite)**, **[v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh)**, etc.
+It allows quick and stable access to the internet by importing proxy nodes and setting up proxies. Other similar applications include: [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/), [karing](https://karing.biz), [sing-box](https://sing-box.info), [hiddify](https://hiddify.me), [v2box](https://v2box.pro), [flclash](https://flclash.xyz), [mahsang](https://mahsang.pro), [stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [shadowrocket](https://shadowrocket.ink), [nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite), [v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh), etc.
 
 ![nekobox-11001.jpg](https://nekobox.info/img/nekobox-11001.jpg)
 
-## Nekobox Download and Installation
+## Download and Installation of nekobox
 
-[Official GitHub Download](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-armeabi-v7a.apk) 
-[Cloud Drive Download Link](https://pan1.mene.lol/s/8kETK)
+- [Official GitHub download link](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-armeabi-v7a.apk)  
+- [Cloud storage download link](https://pan1.mene.lol/s/8kETK)
 
+## Recommended Providers
 
-## Recommended Proxy Providers
+| Provider Name | Price | Notes     |
+|------|----------|--------------|
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 2USDT    | 200G, no time limit       |
+| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)    | 2USDT     | 130G, no time limit |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 5USDT     | 100G, no time limit       |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)    | 5USDT    | 200G, no time limit      |
+| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)    | 7USDT   | 500G, no time limit   |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 7USDT     | 600G, no time limit |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)    | 2USDT     | 200G, no time limit   |
+| [Wumao](https://www.freebb.me/#/register?code=HNjWYnFT)    | 3USDT     | 1000G, no time limit     |
+| [Direct Connect](https://bnb.lat/buy/3)    | 5 USDT     | Unlimited for 1 year       |
 
-| Service Provider | Price | Notes |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G unlimited time |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE) | 2USDT | 100G unlimited time |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1USDT | 80G unlimited time |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 5USDT | 100G unlimited time |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G unlimited time |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G unlimited time |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G unlimited time |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G unlimited time |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Unlimited data for 1 year |
+- leeulen60@gmail.com
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
+## Tutorial on Purchasing and Using Nodes
 
-* [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
-## Node Purchase
+- The software only works after importing VPN nodes.  
+- A node is a server on the internet that can be used with nekobox to access the web.  
+- This allows access to the international internet.  
+- Independent nodes are the most stable since they are not affected by external factors, making them more reliable and less likely to be blocked.  
+- This provider has 23 nodes across about 10 countries with very fast speed. [Click to register](https://www.nfsq.us/#/register?code=i1fXTMYk)  
 
-  * The software can only be used after importing a VPN node.
-  * A node is a server on the network that Nekobox can use to proxy internet access.
-  * This allows you to access the international internet.
-  * Individual nodes are the most stable because they are not affected by external factors, making them more reliable and less likely to be blocked.
-  * **8-country nodes, unlimited data, annual fee 5 USDT, [Click to Purchase](https://bnb.lat/buy/3)**
+![nongfu001.jpg](https://nekobox.info/img/nongfu001.jpg)
 
-![nekobox-11002.jpg](https://nekobox.info/img/nekobox-11002.jpg)
+- Enter your email and password, then log in.  
+- Go to the homepage and click "Purchase Subscription".  
 
-  * Register on crypto exchanges like OKX or Binance.
-  * Purchase USDT cryptocurrency within the OKX app.
-  * Then, click on Assets, USDT, Withdraw, scan the QR code to complete the payment.
+![nongfu001.jpg](https://nekobox.info/img/nongfu003.jpg)
 
-![nekobox-11003.jpg](https://nekobox.info/img/nekobox-11003.jpg)
+- As shown, find the ¥15 / 200G plan, which is cost-effective.  
+- The traffic does not expire — as long as you don’t use it up, you can still use it even after 2–3 years.  
+- Monthly subscriptions are different: once the time expires, they cannot be used.  
+- Click the plan, then pay via Alipay.  
 
-  * After successful payment, you will see the purchased node.
-  * Copy the node, open the software, select "Import from Clipboard," and you're ready to go.
+![nongfu001.jpg](https://nekobox.info/img/nongfu004.jpg)
 
-![nekobox-1103.jpg](https://nekobox.info/img/nekobox-1103.jpg)
+- After successful payment, return to the homepage.  
+- Click "One-click Subscription" and copy the link.  
 
-  * Click the button to start the proxy.
+![nongfu001.jpg](https://nekobox.info/img/nongfu006.jpg)
 
-![nekobox-11004.jpg](https://nekobox.info/img/nekobox-11004.jpg)
+- Open nekobox and click the three lines in the top left corner.  
+- Click **Groups**.  
+- Click the plus sign in the top right corner.  
+- Select **Group Type** → Subscription.  
 
-  * Access Google websites.
+![nongfu001.jpg](https://nekobox.info/img/nongfu008.jpg)
+
+- In the subscription settings, paste the copied subscription link.  
+- Then click the checkmark in the top right corner to save.  
+
+![nongfu001.jpg](https://nekobox.info/img/nongfu009.jpg)
+
+- Then click **Update**.  
+- Click the three lines in the top left corner to return to the homepage.  
+
+![nongfu001.jpg](https://nekobox.info/img/nongfu0091.jpg)
+
+- Now you will see the subscribed nodes.  
+- Click the small airplane icon at the bottom to connect.  
+- Some phones may prompt for authorization, click **Allow**.  
+
+![nongfu001.jpg](https://nekobox.info/img/nongfu0092.jpg)
+
+- Open Google to test.  
 
 ![nekobox-11005.jpg](https://nekobox.info/img/nekobox-11005.jpg)
 
-## Recommended VPN Services
-
-| Service Name | Price | Notes |
-|---|---|---|
-| [Mojie](https://www.mojie.me/#/register?code=BpCuERz0) | 15 RMB | 130G, no time limit |
-| [Baobeiyun](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55 RMB | 600G, no time limit |
-| [Xingoogle](https://xingoogle0.cc/auth/register?code=in46IT) | 20 RMB for half a year | 360G |
-| [Chuanchanjia](https://af001.affcsj.com/#/register?code=kfW7nuyP) | 50 RMB for one year | 30G per month |
-| [Lightning Cat](https://webinv02.sc-aff.cc/auth/register?code=ZqlwT1UL) | 98 RMB for one year | 30G per month |
-| [Tuboshu](https://tuboshu.io/auth/register?code=6ulsZW) | 500 RMB | 5700G per year |
-| [Wangji Kuaiche](https://wjkc66.vip?c=REZUOC) | 7 RMB | No time limit |
-| [Parker Cloud](https://jump.923ka.com/#login?code=Ax6eLJs9) | 36 RMB | No time limit |
-| [Direct Connect](https://bnb.lat/buy/3) | 37 RMB for one year | Unlimited data |
-
-- [nekobox free node sharing](https://nekobox.info/docs/Nekobox-Tutorial/nekobox-free-node-sharing/)
+- [nekobox Free Providers Recommendation – New Google](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-%E6%96%B0%E8%B0%B7%E6%AD%8C/)  
+- [nekobox Free Node Sharing](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)  
