@@ -17,7 +17,7 @@ enableGitInfo = true
 
 [languages]
 [languages.zh]
-  languageName = 'Chinese'
+  languageName = '中文'
   contentDir = 'content.zh'
   weight = 1
 
@@ -27,7 +27,12 @@ enableGitInfo = true
   weight = 3
 
 [languages.ru]
-  languageName = 'Russian'
+  languageName = 'Русский'
+  contentDir = 'content.ru'
+  weight = 2
+
+[languages.fa]
+  languageName = 'فارسی'
   contentDir = 'content.ru'
   weight = 2
 
