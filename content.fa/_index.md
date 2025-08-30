@@ -87,5 +87,4 @@ type: docs
 
 ![nekobox-11005.jpg](https://nekobox.info/img/nekobox-11005.jpg)
 
-- [پیشنهاد ارائه‌دهندگان رایگان nekobox – گوگل جدید](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-%E6%96%B0%E8%B0%B7%E6%AD%8C/)  
-- [اشتراک‌گذاری نودهای رایگان nekobox](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)  
+

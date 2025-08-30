@@ -90,5 +90,3 @@ nekobox是安卓平台的一个多功能[sing-box](https://sing-box.info)代理�
 ![nekobox-11005.jpg](https://nekobox.info/img/nekobox-11005.jpg)
 
 
-- [nekobox免费机场推荐-新谷歌](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90-%E6%96%B0%E8%B0%B7%E6%AD%8C/)
-- [nekobox免费节点分享](https://nekobox.info/zh/docs/nekobox%E6%95%99%E7%A8%8B/nekobox%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB/)
