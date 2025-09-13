@@ -17,19 +17,30 @@ type: docs
 - [لینک دانلود رسمی در GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-armeabi-v7a.apk)  
 - [لینک دانلود از فضای ابری](https://pan1.mene.lol/s/8kETK)
 
-## ارائه‌دهندگان پیشنهادی
 
-| نام | قیمت | توضیحات |
-|------|----------|--------------|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)    | ۱۵ یوان    | 200G بدون محدودیت زمانی |
-| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)    | ۱۵ یوان     | 130G بدون محدودیت زمانی |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | ۳۸ یوان     | 100G بدون محدودیت زمانی |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)    | ۳۷ یوان     | 200G بدون محدودیت زمانی |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)    | ۵۰ یوان   | 500G بدون محدودیت زمانی |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)    | ۵۵ یوان     | 600G بدون محدودیت زمانی |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)    | ۱۳ یوان     | 200G بدون محدودیت زمانی |
-| [Wumao](https://www.freebb.me/#/register?code=HNjWYnFT)    | ۲۴ یوان     | 1000G بدون محدودیت زمانی |
-| [Direct Connect](https://bnb.lat/buy/3)    | 5 USDT     | یک‌سال نامحدود |
+## پیشنهادات سرویس‌های VPN
+
+* سرویس‌های زیر بر اساس حجم ترافیک شارژ می‌شوند. آموزش‌های نصب و استفاده از نرم‌افزار در وب‌سایت‌ها موجود است.
+* پس از خرید ترافیک، محدودیت زمانی وجود ندارد و ترافیک تا زمانی که تمام شود، معتبر است.
+
+| نام | قیمت | ترافیک | تعداد نودها |
+| :--- | :--- | :--- | :--- |
+| [MoJie](https://mojie.ws/#/register?code=BpCuERz0) | 1 یوان | 2 گیگابایت | 48 |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5 یوان | 10 گیگابایت | 42 |
+| [Net Express](https://wjkc66.vip?c=REZUOC) | 7 یوان | 20 گیگابایت | 54 |
+| [Feiniaoyun](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10 یوان | 200 گیگابایت | 30 |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 یوان | 100 گیگابایت | 40 |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 یوان | 200 گیگابایت | 30 |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 یوان | 200 گیگابایت | 41 |
+| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12 یوان | 60 گیگابایت | 57 |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70 یوان | 80 گیگابایت | 43 |
+| [ChaoShihui](https://cshjc.shop/register?code=GadIbTHc) | 34 یوان | 666 گیگابایت | 40 |
+| [Colosseo](https://www.crosswall.org/#/register?code=3imspEVi) | 30 یوان | 200 گیگابایت | 27 |
+| [Xinglian](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15 یوان | 1000 گیگابایت | 40 |
+| [Feitu](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 یوان | 100 گیگابایت | 80 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 یوان | 100 گیگابایت | 70 |
+| [Qiansu Mao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 یوان | 512 گیگابایت | 46 |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 یوان | 280 گیگابایت | 140 |
 
 - leeulen60@gmail.com
 

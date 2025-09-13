@@ -55,18 +55,29 @@ Stash — это прокси-приложение для устройств App
 
 * [Скачать Surge](https://apps.apple.com/us/app/surge-5/id1442620678)
 
-## Рекомендуемые прокси-провайдеры
+## Рекомендации по VPN-сервисам
 
-| Поставщик услуг | Цена | Примечания |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G без ограничений по времени |
-| [Star Orbit](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 2USDT | 60G без ограничений по времени |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 5USDT | 200G без ограничений по времени |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G без ограничений по времени |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G без ограничений по времени |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G без ограничений по времени |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G без ограничений по времени |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | Безлимитный трафик на 1 год |
+* Указанные ниже сервисы тарифицируются по объему трафика. Инструкции по использованию и установке ПО доступны на сайтах.
+* После покупки трафика нет ограничений по времени; он действует до полного расходования.
+
+| Название | Цена | Трафик | Количество узлов |
+| :--- | :--- | :--- | :--- |
+| [MoJie](https://mojie.ws/#/register?code=BpCuERz0) | 1 юань | 2 ГБ | 48 |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5 юаня | 10 ГБ | 42 |
+| [Net Express](https://wjkc66.vip?c=REZUOC) | 7 юаней | 20 ГБ | 54 |
+| [Feiniaoyun](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10 юаней | 200 ГБ | 30 |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 юаней | 100 ГБ | 40 |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 юаней | 200 ГБ | 30 |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 юаней | 200 ГБ | 41 |
+| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12 юаней | 60 ГБ | 57 |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70 юаней | 80 ГБ | 43 |
+| [ChaoShihui](https://cshjc.shop/register?code=GadIbTHc) | 34 юаня | 666 ГБ | 40 |
+| [Colosseo](https://www.crosswall.org/#/register?code=3imspEVi) | 30 юаней | 200 ГБ | 27 |
+| [Xinglian](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15 юаней | 1000 ГБ | 40 |
+| [Feitu](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100 ГБ | 80 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 юаней | 100 ГБ | 70 |
+| [Qiansu Mao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 юаней | 512 ГБ | 46 |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 юаней | 280 ГБ | 140 |
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)
 

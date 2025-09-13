@@ -16,19 +16,29 @@ nekobox — это многофункциональный клиент-прок�
 - [Официальная ссылка на GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.9/NekoBox-1.3.9-armeabi-v7a.apk)  
 - [Ссылка для скачивания с облака](https://pan1.mene.lol/s/8kETK)
 
-## Рекомендуемые провайдеры
+## Рекомендации по VPN-сервисам
 
-| Название | Цена | Примечания     |
-|------|----------|--------------|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk)    | 2USDT    | 200G, без ограничения по времени       |
-| [Mojie](https://mojie.ws/#/register?code=BpCuERz0)    | 2USDT     | 130G, без ограничения по времени |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)    | 5USDT     | 100G, без ограничения по времени       |
-| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)    | 5USDT     | 200G, без ограничения по времени      |
-| [FreeCat](https://us.freecat.cc/register?code=czdF7PXY)    | 7USDT   | 500G, без ограничения по времени   |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)    | 7USDT     | 600G, без ограничения по времени |
-| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)    | 2USDT     | 200G, без ограничения по времени   |
-| [Wumao](https://www.freebb.me/#/register?code=HNjWYnFT)    | 3USDT     | 1000G, без ограничения по времени     |
-| [Direct Connect](https://bnb.lat/buy/3)    | 5 USDT     | Безлимит на 1 год       |
+* Указанные ниже сервисы тарифицируются по объему трафика. Инструкции по использованию и установке ПО доступны на сайтах.
+* После покупки трафика нет ограничений по времени; он действует до полного расходования.
+
+| Название | Цена | Трафик | Количество узлов |
+| :--- | :--- | :--- | :--- |
+| [MoJie](https://mojie.ws/#/register?code=BpCuERz0) | 1 юань | 2 ГБ | 48 |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5 юаня | 10 ГБ | 42 |
+| [Net Express](https://wjkc66.vip?c=REZUOC) | 7 юаней | 20 ГБ | 54 |
+| [Feiniaoyun](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10 юаней | 200 ГБ | 30 |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 юаней | 100 ГБ | 40 |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 юаней | 200 ГБ | 30 |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 юаней | 200 ГБ | 41 |
+| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12 юаней | 60 ГБ | 57 |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70 юаней | 80 ГБ | 43 |
+| [ChaoShihui](https://cshjc.shop/register?code=GadIbTHc) | 34 юаня | 666 ГБ | 40 |
+| [Colosseo](https://www.crosswall.org/#/register?code=3imspEVi) | 30 юаней | 200 ГБ | 27 |
+| [Xinglian](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15 юаней | 1000 ГБ | 40 |
+| [Feitu](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100 ГБ | 80 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 юаней | 100 ГБ | 70 |
+| [Qiansu Mao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 юаней | 512 ГБ | 46 |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 юаней | 280 ГБ | 140 |
 
 - leeulen60@gmail.com
 

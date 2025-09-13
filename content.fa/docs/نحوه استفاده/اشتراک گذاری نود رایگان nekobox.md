@@ -4,19 +4,31 @@
 - نودها از شبکه جمع‌آوری شده‌اند و ممکن است پایدار نباشند  
 - تست همان‌روز در دسترس است  
 
-## ارائه‌دهندگان پروکسی پیشنهادی  
 
-| ارائه‌دهنده | قیمت | توضیحات |
-|---|---|---|
-| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 2USDT | 200G بدون محدودیت زمانی |
-| [Suda](https://mala.sudatech.store/register?code=3DYnOBtE) | 2USDT | 100G بدون محدودیت زمانی |
-| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 1USDT | 80G بدون محدودیت زمانی |
-| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 5USDT | 100G بدون محدودیت زمانی |
-| [Internet Express](https://wjkc66.vip?c=REZUOC) | 1USDT | 20G بدون محدودیت زمانی |
-| [Byte Dog](https://user.bytedog.icu/#/register?code=GXPuAhzt) | 3USDT | 80G بدون محدودیت زمانی |
-| [Free Cat](https://us.freecat.cc/register?code=czdF7PXY) | 7USDT | 500G بدون محدودیت زمانی |
-| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f) | 8USDT | 600G بدون محدودیت زمانی |
-| [Direct Connection](https://bnb.lat/buy/3) | 5USDT | داده نامحدود برای 1 سال |
+## پیشنهادات سرویس‌های VPN
+
+* سرویس‌های زیر بر اساس حجم ترافیک شارژ می‌شوند. آموزش‌های نصب و استفاده از نرم‌افزار در وب‌سایت‌ها موجود است.
+* پس از خرید ترافیک، محدودیت زمانی وجود ندارد و ترافیک تا زمانی که تمام شود، معتبر است.
+
+| نام | قیمت | ترافیک | تعداد نودها |
+| :--- | :--- | :--- | :--- |
+| [MoJie](https://mojie.ws/#/register?code=BpCuERz0) | 1 یوان | 2 گیگابایت | 48 |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5 یوان | 10 گیگابایت | 42 |
+| [Net Express](https://wjkc66.vip?c=REZUOC) | 7 یوان | 20 گیگابایت | 54 |
+| [Feiniaoyun](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10 یوان | 200 گیگابایت | 30 |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12 یوان | 100 گیگابایت | 40 |
+| [Nongfu Spring](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15 یوان | 200 گیگابایت | 30 |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13 یوان | 200 گیگابایت | 41 |
+| [Xinggui](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12 یوان | 60 گیگابایت | 57 |
+| [Mineral Water](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70 یوان | 80 گیگابایت | 43 |
+| [ChaoShihui](https://cshjc.shop/register?code=GadIbTHc) | 34 یوان | 666 گیگابایت | 40 |
+| [Colosseo](https://www.crosswall.org/#/register?code=3imspEVi) | 30 یوان | 200 گیگابایت | 27 |
+| [Xinglian](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15 یوان | 1000 گیگابایت | 40 |
+| [Feitu](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 یوان | 100 گیگابایت | 80 |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40 یوان | 100 گیگابایت | 70 |
+| [Qiansu Mao](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 یوان | 512 گیگابایت | 46 |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 یوان | 280 گیگابایت | 140 |
+
 
 * [leeulen60@gmail.com](mailto:leeulen60@gmail.com)  
 
