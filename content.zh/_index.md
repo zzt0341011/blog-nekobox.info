@@ -26,7 +26,7 @@ nekobox是安卓平台的一个多功能[sing-box](https://sing-box.info)代理�
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10元 | 200G | 30个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
-| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15元 | 200G | 30个 |
+| [农夫山泉](https://07.nfsq.us/#/register?code=RaUmorb2) | 15元 | 200G | 35个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
 | [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12元 | 60G | 57个 |
 | [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70元 | 80G | 43个 |
