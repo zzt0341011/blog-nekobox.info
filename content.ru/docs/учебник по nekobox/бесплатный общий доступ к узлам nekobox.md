@@ -6,25 +6,22 @@
 - Адрес узла: [https://nekobox.info/jiedian.txt](https://nekobox.info/jiedian.txt)
 - Откройте файл, скопируйте содержимое, импортируйте в программу, и вы сможете его использовать
 
-### Рекомендации по бесплатным VPN
+## Рекомендованные сервисы
 
-* Следующие VPN-сервисы предлагают бесплатный пробный период с разным объемом трафика
-* Обычно есть ограничение по времени
+* Следующие провайдеры взимают плату в зависимости от объёма трафика, на их сайтах есть инструкции по установке и использованию.
+* После покупки трафика нет ограничения по времени — можно использовать, пока не закончится трафик.
 
-| Название | Бесплатный трафик | Срок действия |
-|---|---|---|
-| [anyway](https://www.anyway.best/#/register?code=0gfsYasj) | 1 ГБ | 1 день |
-| [Gou Gou](https://down.dginv.click/#/register?code=ZASVvaXN) | 1 ГБ | 3 дня |
-| [New Google](https://qingse001.cc/#/register?code=Hw9HyaLY) | 1 ГБ | 7 дней |
-| [Tomato](https://fqhy.xyz/) | 5 ГБ | 1 день |
-| [Bunny](https://xn--aahqobiuz947-1s0y.xn--54qt46au9eooa.com/index.php#/register?code=8m21XQdd) | 3 ГБ | 1 день |
-| [spendy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 10 ГБ | 7 дней |
-| [ikuuu](https://ikuuu.de/auth/register?code=IdlE) | 50 ГБ | Постоянно |
-| [Hundred Variations](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=uscB) | 5 ГБ | Постоянно |
-| [flybit](https://flybit.vip/#/register?code=KJiq4vYM) | 2 ГБ | 2 дня |
-| [Besnow](https://besnow.me/index.php#/register?code=3K6CuYQG) | 30 ГБ | 7 дней |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 6 ГБ | 2 дня |
-| [Cloud Nine](https://cpdd.one/?r=106143) | 1 ГБ | Постоянно |
-| [99bar](https://99vpn.bar/#/register?code=z6wLtsdW) | 1 ГБ | 1 день |
+| Название                                                                      | Цена     | Трафик | Кол-во узлов |
+| :---------------------------------------------------------------------------- | :------- | :----- | :----------- |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 юань   | 2G     | 48           |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 юаня | 10G    | 42           |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 юаней  | 20G    | 54           |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 юаней | 100G   | 40           |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 юаней | 200G   | 41           |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 юаней | 100G   | 80           |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 юаней | 600G   | 64           |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 юаней | 100G   | 70           |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 юаней | 512G   | 46           |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 юаней | 280G   | 140          |
 
 - leeulen60@gmail.com

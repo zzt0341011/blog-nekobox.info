@@ -62,19 +62,14 @@ surge是在苹果设备上的另一款网络代理软件，支持多种协议
 
 | 名 称 | 价 格 | 流 量 | 节点数 |
 | :--- | :--- | :--- | :--- |
-| [魔戒](https://mojie.ws/#/register?code=BpCuERz0) | 1元 | 2G | 48个 |
+| [魔戒](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0) | 1元 | 2G | 48个 |
 | [皮卡丘](https://pkhub.net/#/register?code=A6O9EIj0) | 4.5元 | 10G | 42个 |
 | [网际快车](https://wjkc66.vip?c=REZUOC) | 7元 | 20G | 54个 |
-| [飞鸟云](https://feiniaoyun.xyz/#/register?code=GpIqYOb5) | 10元 | 200G | 30个 |
 | [一分](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK) | 12元 | 100G | 40个 |
-| [农夫山泉](https://www.nfsq.us/#/register?code=i1fXTMYk) | 15元 | 200G | 30个 |
 | [牛逼](https://6666b.idsduf.com/#/login?code=sT9kLfc6) | 13元 | 200G | 41个 |
-| [星轨](https://bd.srcloud.art/#/register?code=fvyGkr5j) | 12元 | 60G | 57个 |
-| [矿泉水](https://5ldpe1hbmgj4ryv9.600mlt.cc/register?code=noYz548c) | 70元 | 80G | 43个 |
+| [农夫山泉](https://07.nfsq.us/#/register?code=i1fXTMYk)    | 15元   | 200G |32个|
 | [超实惠](https://cshjc.shop/register?code=GadIbTHc) | 34元 | 666G | 40个 |
-| [柯罗斯](https://www.crosswall.org/#/register?code=3imspEVi) | 30元 | 200G | 27个 |
-| [星链](https://xn--mes995ajya725k.xyz/#/register?code=xFHkxqZv) | 15元 | 1000G | 40个 |
-| [飞兔](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30元 | 100G | 80个 |
+| [宝贝云](https://web1.bby011.com/#/register?code=8xTTMr2f) | 55元 | 600G | 64个 |
 | [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8) | 40元 | 100G | 70个 |
 | [千速猫](https://tmsreta.top/#/register?code=mmgD0jY7) | 68元 | 512G | 46个 |
 | [奈云](https://www.v2ny.me?path=register&code=05XjPGu5) | 98元 | 280G | 140个 |

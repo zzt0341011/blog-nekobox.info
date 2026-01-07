@@ -8,25 +8,22 @@
 - Node Address: [https://nekobox.info/jiedian.txt](https://nekobox.info/jiedian.txt)
 - Open the file, copy the content, import it into the software, and you can try it out
 
-## Free VPN Recommendations
+## Recommended Services
 
-* The following VPNs offer a free trial with varying data amounts
-* Usually, there is a time limit
+* The following providers charge based on data usage, and their websites include tutorials on installation and usage.
+* After purchasing data, there’s no time limit — you can use it until the data runs out.
 
-| Name | Free Data | Duration |
-|---|---|---|
-| [anyway](https://www.anyway.best/#/register?code=0gfsYasj) | 1G | 1 day |
-| [Gou Gou](https://down.dginv.click/#/register?code=ZASVvaXN) | 1G | 3 days |
-| [New Google](https://qingse001.cc/#/register?code=Hw9HyaLY) | 1G | 7 days |
-| [Tomato](https://fqhy.xyz/) | 5G | 1 day |
-| [Bunny](https://xn--aahqobiuz947-1s0y.xn--54qt46au9eooa.com/index.php#/register?code=8m21XQdd) | 3G | 1 day |
-| [spendy](https://cloud.speedypro.xyz/#/register?code=RTSPWuvE) | 10G | 7 days |
-| [ikuuu](https://ikuuu.de/auth/register?code=IdlE) | 50G | Permanent |
-| [Hundred Variations](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=uscB) | 5G | Permanent |
-| [flybit](https://flybit.vip/#/register?code=KJiq4vYM) | 2G | 2 days |
-| [Besnow](https://besnow.me/index.php#/register?code=3K6CuYQG) | 30G | 7 days |
-| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5) | 6G | 2 days |
-| [Cloud Nine](https://cpdd.one/?r=106143) | 1G | Permanent |
-| [99bar](https://99vpn.bar/#/register?code=z6wLtsdW) | 1G | 1 day |
+| Name                                                                          | Price   | Data | Number of Nodes |
+| :---------------------------------------------------------------------------- | :------ | :--- | :-------------- |
+| [Mojie](https://mojie.xn--yrs494l.com/register?aff=BpCuERz0)                              | 1 RMB   | 2G   | 48              |
+| [Pikachu](https://pkhub.net/#/register?code=A6O9EIj0)                         | 4.5 RMB | 10G  | 42              |
+| [NetExpress](https://wjkc66.vip?c=REZUOC)                                     | 7 RMB   | 20G  | 54              |
+| [Yifen](https://xn--4gqx1hgtfdmt.com/#/register?code=Aqr3awfK)                | 12 RMB  | 100G | 40              |
+| [Niubi](https://6666b.idsduf.com/#/login?code=sT9kLfc6)                       | 13 RMB  | 200G | 41              |
+| [Flying Rabbit](https://www.xn--9kq10e0y7h.site/index.html?register=TtwX5VXt) | 30 RMB  | 100G | 80              |
+| [Baby Cloud](https://web1.bby011.com/#/register?code=8xTTMr2f)                | 55 RMB  | 600G | 64              |
+| [ofopp](https://kk.ofopp.net/#/register?code=A2UmuXR8)                        | 40 RMB  | 100G | 70              |
+| [Qiansu Cat](https://tmsreta.top/#/register?code=mmgD0jY7)                    | 68 RMB  | 512G | 46              |
+| [Naiyun](https://www.v2ny.me?path=register&code=05XjPGu5)                     | 98 RMB  | 280G | 140             |
 
 - leeulen60@gmail.com
