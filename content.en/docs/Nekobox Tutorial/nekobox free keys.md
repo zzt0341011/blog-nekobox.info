@@ -57,8 +57,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNSBcdTY1
 | [Baobei Cloud](https://1.jnk.ink/xxPwfy) | ¥55 | 600GB | 64 |
 | [Freedom Cat](https://1.jnk.ink/haO8Dr) | ¥89 | 200GB | 71 |
 | [fscloud](https://1.jnk.ink/nKXcqQ) | ¥99 | 1000GB | 82 |
-| [Thousand-Speed Cat](https://tmsreta.top/#/register?code=mmgD0jY7) | 68 CNY | 512 GB | 46 |
-| [Nai Cloud](https://www.v2ny.me?path=register&code=05XjPGu5) | 98 CNY | 280 GB | 140 |
-| [Murphy Cloud](https://portal.mofeiyun.com/#/register?code=ugmD3VWT) | 0.5 CNY | 100 GB | 33 |
 
 - leeulen60@gmail.com
