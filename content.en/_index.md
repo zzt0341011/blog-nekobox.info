@@ -5,9 +5,9 @@ type: docs
 
 ## Introduction to nekobox
 
-nekobox is a multifunctional [sing-box](https://sing-box.info) proxy client for the Android platform. It works similarly to a [VPN](https://getfreevpn.info). It is powerful and supports multiple proxy protocols, including: SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray, and more.  
+nekobox is a multifunctional [sing-box](https://sing-box.info) proxy client for the Android platform. It works similarly to a [VPN](https://getfreevpn.info). It is powerful and supports multiple proxy protocols, including: SOCKS, HTTP, SSH, Shadowsocks, VMess, [vless](https://vless.app/en),Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray, and more.  
 
-It allows quick and stable access to the internet by importing proxy nodes and setting up proxies. Other similar applications include: [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/), [karing](https://karing.biz), [sing-box](https://sing-box.info), [hiddify](https://hiddify.me), [v2box](https://v2box.pro), [flclash](https://flclash.xyz), [mahsang](https://mahsang.pro), [stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [shadowrocket](https://shadowrocket.ink), [nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite), [v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh), etc.
+It allows quick and stable access to the internet by importing proxy nodes and setting up proxies. Other similar applications include: [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/), [karing](https://karing.biz), [sing-box](https://sing-box.info), [hiddify](https://hiddify.me), [v2box](https://v2box.pro), [flclash](https://flclash.xyz), [mahsang](https://mahsang.pro), [stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [shadowrocket](https://shadowrocket.ink), [nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite), [v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh), [clash verge](https://clashvergerev.app/en)etc.
 
 ![nekobox-11001.jpg](https://nekobox.info/img/nekobox-11001.jpg)
 
@@ -25,7 +25,7 @@ It allows quick and stable access to the internet by importing proxy nodes and s
 | Name | Price | Traffic | Nodes |
 | :--- | :--- | :--- | :--- |
 | [Mojie](https://1.jnk.ink/L4q20S) | ¥1 | 1GB | 30 |
-| [Wangji Express](https://wjkc66.vip?c=REZUOC) | ¥7 | 20GB | 54 |
+| [Wangji Express](https://1.jnk.ink/ad2RVl) | ¥7 | 20GB | 54 |
 | [Niubi](https://1.jnk.ink/LYet7x) | ¥14 | 200GB | 31 |
 | [Feitu](https://1.jnk.ink/bbXkiN) | ¥30 | 100GB | 80 |
 | [Nongfu Spring](https://1.jnk.ink/i1fXTMYk) | ¥45 | 200GB | 40 |
