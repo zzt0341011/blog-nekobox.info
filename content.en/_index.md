@@ -41,26 +41,26 @@ It allows quick and stable access to the internet by importing proxy nodes and s
 - A node is a server on the internet that can be used with nekobox to access the web.  
 - This allows access to the international internet.  
 - Independent nodes are the most stable since they are not affected by external factors, making them more reliable and less likely to be blocked.  
-- This provider has 23 nodes across about 10 countries with very fast speed. [Click to register](https://www.nfsq.us/#/register?code=i1fXTMYk)  
+- This provider has 23 nodes across about 10 countries with very fast speed. [Click to register](https://1.jnk.ink/ad2RVl)  
 
-![nongfu001.jpg](https://nekobox.info/img/nongfu001.jpg)
+![nongfu001.jpg](https://nekobox.info/img/nekobox-kuaiche11001.jpg)
 
 - Enter your email and password, then log in.  
 - Go to the homepage and click "Purchase Subscription".  
 
-![nongfu001.jpg](https://nekobox.info/img/nongfu003.jpg)
+![nongfu001.jpg](https://nekobox.info/img/nekobox-kuaiche11002.jpg)
 
 - As shown, find the ¥15 / 200G plan, which is cost-effective.  
 - The traffic does not expire — as long as you don’t use it up, you can still use it even after 2–3 years.  
 - Monthly subscriptions are different: once the time expires, they cannot be used.  
 - Click the plan, then pay via Alipay.  
 
-![nongfu001.jpg](https://nekobox.info/img/nongfu004.jpg)
+![nongfu001.jpg](https://nekobox.info/img/nekobox-kuaiche11003.jpg)
 
 - After successful payment, return to the homepage.  
 - Click "One-click Subscription" and copy the link.  
 
-![nongfu001.jpg](https://nekobox.info/img/nongfu006.jpg)
+![nongfu001.jpg](https://nekobox.info/img/nekobox-kuaiche11004.jpg)
 
 - Open nekobox and click the three lines in the top left corner.  
 - Click **Groups**.  
