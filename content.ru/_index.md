@@ -5,7 +5,7 @@ type: docs
 
 ## Введение в nekobox
 
-nekobox — это многофункциональный клиент-прокси [sing-box](https://sing-box.info/ru) для платформы Android. Он работает аналогично [VPN](https://getfreevpn.info/ru). Программа мощная и поддерживает множество протоколов прокси, включая: SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray и другие.  
+nekobox — это многофункциональный клиент-прокси [sing-box](https://sing-box.info/ru) для платформы Android. Он работает аналогично [VPN](https://getfreevpn.info/ru). Программа мощная и поддерживает множество протоколов прокси, включая: SOCKS, HTTP, SSH, Shadowsocks, VMess, Trojan, AnyTLS, ,[vless](https://vless.app/ru),ShadowTLS, TUIC, Hysteria, WireGuard, Trojan-Go, NaïveProxy, Mieru, xray и другие.  
 
 Она обеспечивает быстрый и стабильный доступ в интернет с помощью импорта прокси-узлов и настройки прокси. Другие приложения с аналогичной функциональностью: [v2rayNG](https://getfreevpn.info/zh/docs/vpn%E6%95%99%E7%A8%8B/%E4%B8%8B%E8%BD%BD%E5%92%8C%E4%BD%BF%E7%94%A8v2rayNG-VPN/), [karing](https://karing.biz/ru), [sing-box](https://sing-box.info/ru), [hiddify](https://hiddify.me/ru), [v2box](https://v2box.pro/ru), [flclash](https://flclash.xyz), [mahsang](https://mahsang.pro), [stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349), [shadowrocket](https://shadowrocket.ink), [nekoha](https://play.google.com/store/apps/details?id=moe.matsuri.lite), [v2rayTun](https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=zh) и др.
 
