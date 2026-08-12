@@ -1,17 +1,13 @@
-## Free Nekobox Node Sharing Updated: 2026-08-05
-
+## Free Nekobox Node Sharing Updated: 2026-08-12
 - The nodes are sourced from the internet and may not be very stable
 - Tested and working on the same day
 - Open the file, copy the content, import it into the software, and you can try it out
 - Node list
 
 ```
-vless://98ca432c-4dd0-452e-a49c-552620e14358@www.visa.com.hk:443?encryption=none&security=tls&sni=nl-ams.862400.xyz&fp=random&type=ws&host=nl-ams.862400.xyz&path=%2Fannouncement#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL9%7C23.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL%7CCL-NL%7CSP-NL
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO4%7C2.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO1%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.166:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO6%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.31:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO2%7C2.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.7:62145?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B4%20%7C%20%40WhiteDNS%20%7C%20CO3%7C2.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CO%7CGM-CO%7CCL-CO%7CSP-CO
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?sni=vpn-us-006.fastervpn.world&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@18.198.227.161:443?encryption=none&security=tls&sni=titandarkness.mooo.com&fp=chrome&type=ws&host=titandarkness.mooo.com&path=%2F21381%2F0kO2id8FMQ#%F0%9F%87%A9%F0%9F%87%AA_%E5%BE%B7%E5%9B%BD_373
+trojan://MiTiVPN@45.80.111.7:443?security=tls&sni=d-2-AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStYLe&alpn=http%2F1.1&type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%BA%F0%9F%87%B8US_1%7C2.4MB%2Fs
 ```
 
 ## Recommended Services
