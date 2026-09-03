@@ -1,4 +1,4 @@
-## Free Nekobox Node Sharing Updated: 2026-09-01
+## Free Nekobox Node Sharing Updated: 2026-09-03
 - The nodes are sourced from the internet and may not be very stable
 - Tested and working on the same day
 - Open the file, copy the content, import it into the software, and you can try it out
