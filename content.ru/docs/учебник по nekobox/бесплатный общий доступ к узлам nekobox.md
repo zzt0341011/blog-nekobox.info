@@ -1,4 +1,4 @@
-### Nekobox Бесплатные Узлы Обновлено: 02.10.2026
+### Nekobox Бесплатные Узлы Обновлено: 14.10.2026
 
 - Узлы взяты из интернета и могут быть нестабильными
 - Проверено и работает в тот же день
@@ -6,17 +6,16 @@
 - Список узлов
 
 ```
-vless://21d0929a-ba27-4822-9b50-bda9ee54a494@217.60.177.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=n48.himoy.space&fp=firefox&pbk=Pb37t99NiJqm-lsTi4tucPFqRXIsek-5G5dqjIqVfxE&sid=15c87d0b99c0d132&type=tcp&headerType=none&host=n48.himoy.space#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&alpn=h2&type=xhttp&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%E4%B8%A8yoyapai.com
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%7D#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@[2a14:3f87:f001:46::a]:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-socks://Og%3D%3D@101.36.104.46:10808#JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-socks://Og%3D%3D@101.36.104.239:10808#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-socks://VDJjbE0wUWxNMFE2Og%3D%3D@121.169.46.116:1090#%F0%9F%87%B0%F0%9F%87%B7KR%C2%B2_1%7C0.7MB%2Fs%7CGPT%7CX%7CHistory%2001
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433?sni=127.0.0.1&insecure=1#%F0%9F%87%A9%F0%9F%87%AADE_95%7C3.9MB%2Fs%7CA004-260618%2001
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@yg.mangshe.xyz:2060?sni=yg.mangshe.xyz&insecure=1#%F0%9F%87%AC%F0%9F%87%A7GB_59%7C2.1MB%2Fs%7CR002-260618%2001
-vless://92d67828-4c56-4795-af5a-f387651380dc@140.245.120.16:443?encryption=none&security=tls&sni=trackydev.site&fp=chrome&type=ws&path=%2F#%F0%9F%87%B8%F0%9F%87%ACSG_83%7C631KB%2Fs%7CA004-260618%2001
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?sni=xby.mangshe.xyz&insecure=1#%F0%9F%87%AA%F0%9F%87%B8ES_36%7C2.3MB%2Fs%7CR002-260618%2001
+hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?sni=www.bing.com&insecure=1#hysteria2-863226972
+vless://4dcfe8ff-b24c-4241-96a2-31fac7c87ad8@2.27.211.84:8448?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=LTZezy5Z-ZFQQpCPiSglPRyqqxr2ekFRnbz0lahfxCI&sid=24b61af4458b5152&type=xhttp&host=2.27.211.84&path=%2Fassets%2Fv2&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AADE_1%7C1.1MB%2Fs
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=none&type=tcp&headerType=none#CN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%911
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=chrome&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none&host=buylite.music.apple.com#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%916
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:57541?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&pbk=hAtfAzXQrbxyqiK3b2XrsxZ35sWiN8iqp0LvjKr9_DE&sid=22b19630280c3f&type=tcp&headerType=none#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9114
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#Rose%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%201165
+hysteria2://8A9905B7-801B-41AF-BFC9-2034212770F6@sg4.dexlos.com:20654?sni=sg4.dexlos.com&obfs=salamander&obfs-password=xK9mN2pLq5vR8wB3&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG153%7C3.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SG
+socks://Og%3D%3D@217.142.236.180:1080#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP137%7C1.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
+socks://Og%3D%3D@67.207.92.87:1088#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US591%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US
+vless://157bf3e0-9467-4600-9b76-71323f7ef14e@104.207.132.12:30006?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40WhiteDNS%20%7C%20US603%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-US
 ```
 
 ## Рекомендованные сервисы
